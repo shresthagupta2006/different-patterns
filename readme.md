@@ -1,0 +1,1 @@
+Hello these are few  star patterns made with basic java .
